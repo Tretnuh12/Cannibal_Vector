@@ -1,0 +1,1 @@
+follow = obj_player1.id;
